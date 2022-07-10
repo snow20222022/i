@@ -316,6 +316,7 @@
       ]
     }
   ],
+ "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cDovL21hb3lpbmdzaGkuY2MvdHZib3gvemhpYm8vMS50eHQ="]}]}],
 
   "flags": ["youku","qq","iqiyi","qiyi","letv","sohu","tudou","pptv","mgtv","wasu","bilibili","xigua","renrenmi","ltnb","CL4K","rx","dmplay","duoduozy","xfyun"],
 
