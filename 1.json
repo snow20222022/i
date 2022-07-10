@@ -1,5 +1,4 @@
 {
-"spider": "http://118.190.244.195/tvmovie/bd/custom_spider.jar",
 "spider": "https://gitea.com/Pandora2277/TV/raw/branch/main/custom_spider.jar"
  
  "sites": [
