@@ -507,7 +507,6 @@
     "cdnjs.hnfenxun.com",
     "cms.qdwght.com"
   ],
-  "spider": "https://gitea.com/Pandora2277/TV/raw/branch/main/custom_spider.jar"
 }
 "sites": [
 {"key": "小苹果"          ,"name": "小苹果","type": 3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1},
